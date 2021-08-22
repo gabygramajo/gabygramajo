@@ -2,7 +2,7 @@
 <h3 align="center">Un apasionado por la tecnología y el software.</h3>
 
 - Sobre Mí: Soy estudiante de 1er año de la carrera de Ingeniería Informática en la **Universidad Nacional de La Matanza**. Actualmente estoy enfocado en formarme como **Front End Developer**.
-- 
+
 - Lenguajes que estoy aprendiendo: **HTML, CSS y JavaScript.**
 
 
