@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gabriel gramajo</h1>
-<h3 align="center">Un apasionado por el mundo de la tecnología y el software.</h3>
+<h1 align="center">Gabriel Gramajo</h1>
+<h3 align="center">Un apasionado por la tecnología y el software.</h3>
 
-- Actualmente me Encuentro aprendiendo: **HTML, CSS y JavaScript.**
+- Sobre Mí: Soy estudiante de 1er año de la carrera de Ingeniería Informática en la **Universidad Nacional de La Matanza**. Actualmente estoy enfocado en formarme como **Front End Developer**.
+- 
+- Lenguajes que estoy aprendiendo: **HTML, CSS y JavaScript.**
 
 
 <h3 align="left">Languages and Tools:</h3>
