@@ -1,7 +1,7 @@
 <h1 align="center">Gabriel Gramajo</h1>
 <h3 align="center">Un apasionado por la tecnología y el software.</h3>
 
-- Sobre Mí: Soy estudiante de la carrera de Ingeniería Informática en la **Universidad Nacional de La Matanza**. Actualmente estoy enfocado en formarme como **Front End Developer**.
+- Estudiante de la Tecnicatura Universitaria en Tecnologías Web en la **Universidad Nacional del Oeste**💙. Actualmente estoy enfocado en formarme como **Front End Developer**.
 
 <h3 align="left">Lenguajes que estoy aprendiendo:</h3>
 <p align="left"> 
