@@ -1,7 +1,7 @@
 <h1 align="center">Gabriel Gramajo</h1>
 <h3 align="center">Un apasionado por la tecnología y el software.</h3>
 
-![bannerSoftwareDeveloper]('bannerGithub-min.gif')
+![bannerSoftwareDeveloper](bannerGithub-min.gif)
 
 - Estudiante de la Licenciatura en informática en la **Universidad Nacional del Oeste**💙. Actualmente estoy enfocado en formarme como **Python Developer**.
 
