@@ -1,5 +1,5 @@
 <p>
-  <img align="center" src="./BannerGihubProfile.gif" alt="banner" width="500">
+  <img align="center" src="./banner.gif" alt="banner" width="500">
 </p>
 
 <h1 align="center">Hi 👋, I'm Gabriel Gramajo</h1>
