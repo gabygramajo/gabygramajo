@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Refugiaditos](https://github.com/gabygramajo/Proyecto-Grupal-CoC-4.0)
 
-- 🤓 I’m currently learning **Python and want to be a great Python Software Developer.**
+- 🤓 I’m currently learning **Python and want to be a great Software Developer.**
 
 - 👨‍💻 All of my projects are available at [In construction 👷‍♂️](https://github.com/gabygramajo)
 
