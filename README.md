@@ -6,12 +6,12 @@
 <h3 align="center">I love solving problems and providing solutions using software development and IT.</h3>
 
 <h2 align="left">About me:</h2>
-
+<!--
 - 🔭 I’m currently working on [Refugiaditos](https://github.com/gabygramajo/Proyecto-Grupal-CoC-4.0)
+-->
+- 🤓 I’m currently learning **Java and want to be a great Software Developer.**
 
-- 🤓 I’m currently learning **Python and want to be a great Software Developer.**
-
-- 👨‍💻 All of my projects are available at [In construction 👷‍♂️](https://github.com/gabygramajo)
+- 👨‍💻 All of my projects are available in [my portfolio](https://gabrielgram.netlify.app/)
 
 - 👨‍🎓 Formal education: **I'm currently studying a Tecnicatura Universitaria en Tecnologías Web at the Universidad Nacional del Oeste.**
 
