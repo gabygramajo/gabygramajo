@@ -12,7 +12,7 @@
 
 - 👨‍💻 All my digital badges in Credly [my profile](https://www.credly.com/users/gabriel-omar-gramajo)
 
-- 👨‍🎓 Formal education: **I'm currently studying a Licenciatura en Informáticas at the Universidad Nacional del Oeste.** 
+- 👨‍🎓 Formal education: **I am currently studying a Bachelor degree in Computer Science**. 
 
 
 <h3 align="left">Connect with me:</h3>
