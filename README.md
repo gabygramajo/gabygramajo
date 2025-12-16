@@ -67,7 +67,7 @@ I am a passionate **Data Professional** based in Buenos Aires, bridging the gap 
 </div>
 
 ---
-
+<!---
 ### 📈 GitHub Stats
 
 <div align="center">
@@ -79,13 +79,8 @@ I am a passionate **Data Professional** based in Buenos Aires, bridging the gap 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabygramajo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 
-<!---
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabygramajo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 -->
-</div>
-
----
-
-<div align="center">
-  <small>Let's build something scalable together.</small>
-</div>
