@@ -78,16 +78,6 @@ I am a **Technical Analyst and Junior ETL Developer** based in Buenos Aires. My 
 
 ---
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabygramajo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gabriel's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabygramajo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabygramajo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 <div align="center">
   <small>Open for new challenges and collaborative data projects.</small>
 </div>
