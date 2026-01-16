@@ -13,7 +13,7 @@
   <a href="mailto:gramajogabrielomar@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/INSERTAR_TU_LINKEDIN_AQUI/">
+  <a href="https://www.linkedin.com/in/gabriel-gramajo/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
@@ -78,18 +78,13 @@ I am a **Technical Analyst and Junior ETL Developer** based in Buenos Aires. My 
 
 ---
 
-### 🎓 Education & Certifications
-* **B.S. in Computer Science** (2nd Year) - Universidad Nacional del Oeste.
-* **AWS Certified Cloud Practitioner**.
-* **Google IT Support Professional Certificate**.
 
----
-
-### 📈 Stats & Contributions
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gabriel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabygramajo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gabriel's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabygramajo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabygramajo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
