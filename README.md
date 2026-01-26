@@ -13,7 +13,7 @@
   <a href="mailto:gramajogabrielomar@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/gramajogabrielomar/">
+  <a href="https://www.linkedin.com/in/gabriel-gramajo">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
