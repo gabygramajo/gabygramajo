@@ -4,16 +4,16 @@
 
   <h1 align="center">Hi there, I'm Gabriel Gramajo 👋</h1>
   
-  <h3 align="center">Junior Python ETL Developer | AWS Certified Cloud Practitioner ☁️</h3>
+  <h3 align="center">Junior Data Engineer | AWS Certified Cloud Practitioner ☁️</h3>
 
   <p align="center">
-    <i>Building efficient data pipelines and scalable web solutions through Python, Cloud, and Automation.</i>
+    <i>Learning to build data pipelines and mastering Data Engineering fundamentals with Python & SQL.</i>
   </p>
 
   <a href="mailto:gramajogabrielomar@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-gramajo/">
+  <a href="https://www.linkedin.com/in/gramajogabrielomar/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
@@ -23,12 +23,12 @@
 
 ### 🚀 About Me
 
-I am a **Technical Analyst and Junior ETL Developer** based in Buenos Aires. My focus is on data engineering, ETL process optimization, and intelligent automation. I bridge the gap between complex data backend structures and functional web interfaces.
+I am a **Data Engineer**, passionate about the infrastructure behind data. My background in IT support and operations has given me a strong foundation for troubleshooting and system optimization.
 
-* ⚙️ **ETL & Data Engineering:** Experienced in building data pipelines with **Python (PySpark)** and **SQL** in **Databricks**.
-* 🤖 **Workflow Automation:** Expert in orquestrating complex tasks using **n8n**, AI Agents, and external APIs.
-* 🌐 **Full-Stack Foundations:** Passionate about building clean interfaces using **HTML, CSS, JavaScript, React,** and **Node.js**.
-* ☁️ **Cloud Infrastructure:** AWS Certified Cloud Practitioner with a deep understanding of cloud-native data solutions.
+* ⚙️ **ETL & Pipelines:** Experienced in building data workflows using **Python (PySpark)** and **SQL** in **Databricks** to clean and transform large datasets.
+* 🕷️ **Data Collection:** Skilled in **Web Scraping** to extract unstructured data from the web using Python libraries.
+* ☁️ **Multi-Cloud:** **AWS Certified Cloud Practitioner** with expanding knowledge in **Microsoft Azure** services for data engineering.
+* 🐳 **DevOps & Automation:** I use **Docker** for containerization and **n8n** to orchestrate complex automation agents.
 
 ---
 
@@ -38,7 +38,7 @@ I am a **Technical Analyst and Junior ETL Developer** based in Buenos Aires. My 
   <table>
     <tr>
       <td align="center" width="33%" valign="top">
-        <strong>Data Engineering (ETL)</strong>
+        <strong>Data Engineering Core</strong>
         <br><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         <br>
@@ -49,26 +49,24 @@ I am a **Technical Analyst and Junior ETL Developer** based in Buenos Aires. My 
         <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
       </td>
       <td align="center" width="33%" valign="top">
-        <strong>Web Development</strong>
-        <br><br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <br>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-        <br>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      </td>
-      <td align="center" width="33%" valign="top">
-        <strong>Cloud & Automation</strong>
+        <strong>Cloud & DevOps</strong>
         <br><br>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
         <br>
-        <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
         <br>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+        <br>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      </td>
+      <td align="center" width="33%" valign="top">
+        <strong>Scraping & Automation</strong>
+        <br><br>
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+        <br>
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+        <br>
+        <img src="https://img.shields.io/badge/BeautifulSoup-black?style=for-the-badge&logo=python&logoColor=white" />
         <br>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       </td>
@@ -78,6 +76,28 @@ I am a **Technical Analyst and Junior ETL Developer** based in Buenos Aires. My 
 
 ---
 
+### 🎓 Education & Certifications
+* **B.S. in Computer Science** (Current 2nd Year) - Universidad Nacional del Oeste.
+* **AWS Certified Cloud Practitioner**.
+* **Google IT Support Professional Certificate**.
+<!--
+---
+
+### 💻 Featured Project: InfraQuery
+**AI-Powered Infrastructure Asset Management**
+Developed an automated system using **n8n**, **Python**, and **PostgreSQL (Supabase)** that allows users to query infrastructure assets using natural language. The project demonstrates full-stack data handling from database design to end-user reporting.
+
+---
+
+### 📈 Stats & Contributions
+<!--
 <div align="center">
-  <small>Open for new challenges and collaborative data projects.</small>
+  <img src="https://github-readme-stats.vercel.app/api?username=gabygramajo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gabriel's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabygramajo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</div>
+-->
+---
+<div align="center">
+  <small>Building the bridges between raw data and business value.</small>
 </div>
