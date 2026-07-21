@@ -4,11 +4,7 @@
 
   <h1 align="center">Hi there, I'm Gabriel Gramajo 👋</h1>
   
-  <h3 align="center">Junior Data Engineer | AWS Certified Cloud Practitioner ☁️</h3>
-
-  <p align="center">
-    <i>Learning to build data pipelines and mastering Data Engineering fundamentals with Python & SQL.</i>
-  </p>
+  <h3 align="center">Support IT | Data & Process Automation | AWS Certified Cloud Practitioner</h3>
 
   <a href="mailto:gramajogabrielomar@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -23,9 +19,9 @@
 
 ### 🚀 About Me
 
-I am a **Data Engineer**, passionate about the infrastructure behind data. My background in IT support and operations has given me a strong foundation for troubleshooting and system optimization.
+Second-year Computer Science student and AWS Certified Cloud Practitioner. I have a strong technical foundation in Linux operating systems, networking (TCP/IP), and troubleshooting. Passionate about infrastructure and the cloud/DevOps ecosystem, I complement my profile with practical projects in databases (PostgreSQL), creating test environments with Docker, and automation workflows.
 
-* ⚙️ **ETL & Pipelines:** Experienced in building data workflows using **Python (PySpark)** and **SQL** in **Databricks** to clean and transform large datasets.
+* ⚙️ **ETL & Pipelines:** Experienced in building data workflows using **Python** and **SQL** in **Databricks** to clean and transform large datasets.
 * 🕷️ **Data Collection:** Skilled in **Web Scraping** to extract unstructured data from the web using Python libraries.
 * ☁️ **Multi-Cloud:** **AWS Certified Cloud Practitioner** with expanding knowledge in **Microsoft Azure** services for data engineering.
 * 🐳 **DevOps & Automation:** I use **Docker** for containerization and **n8n** to orchestrate complex automation agents.
